@@ -2,13 +2,13 @@
 
 1. [Part1: Heapify](Heapify/README.md)
 
-2. [Part2: LRU Cache Design](LRU Cache Design/README.md)
+2. [Part2: LRU-Cache-Design](LRU-Cache-Design/README.md)
 
-3. [Part3: Loop in Linked List](Loop in Linked List/readme.md)
+3. [Part3: Loop-in-Linked-List](Loop-in-Linked-List/readme.md)
 
-4. [Part4: Merge Sort](Merge Sort/README.md)
+4. [Part4: Merge-Sort](Merge-Sort/README.md)
 
-5. [Part5: Middle Linked List](Middle Linked List/README.md)
+5. [Part5: Middle-Linked-List](Middle-Linked-List/README.md)
 
 6. [Part6: Minimum_Swap_Array](Minimum_Swap_Array/Readme.md)
 
