@@ -16,7 +16,7 @@
 
 8. [Part8: Palindrome-Linked-list](Palindrome-Linked-list/README.md)
 
-9. [Part9: Quick Sort](Quick-Sort/readme.md)
+9. [Part9: Quick Sort](Quick-Sort/README.md)
 
 10. [Part10: Two Pointers](Two Pointer/Two Pointers/Readme.md)
 
