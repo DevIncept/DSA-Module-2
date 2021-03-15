@@ -16,10 +16,14 @@
 
 2. Which of the following options is not true about the Binary Search tree?
 
- (A) The value of the left child should be less than the root node
- (B) The value of the right child should be greater than the root node.
- (C) The left and right sub trees should also be a binary search tree
- (D) None of the above
+
+(A) The value of the left child should be less than the root node
+
+(B) The value of the right child should be greater than the root node.
+
+(C) The left and right sub trees should also be a binary search tree
+
+(D) None of the above
 
 
 
