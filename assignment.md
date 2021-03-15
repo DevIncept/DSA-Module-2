@@ -2,8 +2,11 @@
 
 
 (A) We can traverse in both the directions.
+
 (B) It requires extra space
+
 (C) Implementation of doubly linked list is easier than the singly linked list
+
 (D) It stores the addresses of the next and the previous node
 
 
