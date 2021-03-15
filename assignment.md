@@ -1,9 +1,10 @@
 1. Which of the following statement is not true about the doubly linked list?
 
- (A) We can traverse in both the directions.
- (B) It requires extra space
- (C) Implementation of doubly linked list is easier than the singly linked list
- (D) It stores the addresses of the next and the previous node
+
+(A) We can traverse in both the directions.
+(B) It requires extra space
+(C) Implementation of doubly linked list is easier than the singly linked list
+(D) It stores the addresses of the next and the previous node
 
 
 
